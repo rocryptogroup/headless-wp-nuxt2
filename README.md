@@ -146,3 +146,4 @@ RewriteRule . /index.php [L]
 ## References for Docker Images.
 
 1. [phpMyAdmin](https://github.com/fuadajip/dockercompose-mysql-phpmyadmin/blob/master/docker-compose.yml)
+# headless-wp-nuxt2
